@@ -1,2 +1,3 @@
 Primeira linha do projeto no repositorio local, escrita pelo
- usuário Elisangela Macedogit git 
+ usuário Elisangela Macedo.
+ Segunda linha do projeto, após criaçao do repositorio remoto.
